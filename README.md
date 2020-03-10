@@ -1,10 +1,10 @@
-# DataQuest Project 3: Visualizing Earnings Based on Majors
+# DataQuest Project 5: Analyze Employee Exit Surveys
 
 This is the fifth project in the "Data Analyst in Python" and "Data Scientist in Python" paths from Dataquest. In this project a dataset containing data from two Australian institutes is cleaned, combined and analyzed. The main focus of the project is data cleaning. The analysis of the data itself is very short.
 
 ## Prerequisites
 
-This project requires both the jupyter notebook as well as the `CSV` files to run.
+This project requires both the Jupyter notebook as well as the `CSV` files to run.
 
 ### Prerequisites
 
